@@ -1,3 +1,7 @@
+# Youtube link for, it help you to build firebase connection:
+https://www.youtube.com/watch?v=Vv_Oi7zPPTw
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
